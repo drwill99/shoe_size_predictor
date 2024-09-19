@@ -80,3 +80,7 @@ This Python application uses various libraries to accomplish the task of shoe si
 - **Advanced Models**: The current implementation uses a simple Linear Regression model. Future versions of the program could explore more sophisticated machine learning algorithms such as Decision Trees, Random Forests, or Neural Networks, which may improve prediction accuracy.
 
 - **Enhanced User Interface**: Future updates could improve the GUI by adding drop-down menus for height selection, better visualization options, and more interactive features to improve the user experience.
+
+## Contact Me
+### Repo Specific Discussion Board
+- https://github.com/drwill99/shoe_size_predictor/discussions/1
